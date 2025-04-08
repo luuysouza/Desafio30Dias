@@ -8,4 +8,4 @@ Link do Projeto: <a href="https://30-dias-de-css.vercel.app/pr.html">30 Dias de 
 <h2>Dia 01</h2>
 
 Foi mais complicado do que pensei, pois faziam alguns meses que não tinha contato com CSS, mas aos poucos fui lembrando de como fazer o que foi proposto. 
-Utilizei o W3School para entender como o :Focus funcionava e utilizei pela primeira vez o "position: absolute" para centralizar o botão, pois normalmente utilizava Divs
+Utilizei o <b>W3School</b> para entender como o <i>:Focus</i> funcionava e utilizei pela primeira vez o <i>"position: absolute"</i> para centralizar o botão, pois normalmente utilizava Divs
