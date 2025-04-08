@@ -1,7 +1,7 @@
 <h1>Olá pessoal!</h1>
 
 Estou realizando um desafio para aprimorar minhas habilidades em CSS, onde durante 30 dias irei realizar um dos desafios encontrados nessa página desenvolvida pelo Thiago dos Santos <a href="https://github.com/IamThiago-IT">GitHub</a>
-Link do Projeto: <a href="https://30-dias-de-css.vercel.app/pr.html>30 Dias de CSS</a>
+Link do Projeto: <a href="https://30-dias-de-css.vercel.app/pr.html">30 Dias de CSS</a>
 
 <h1>Meu Progresso</h1>
 
