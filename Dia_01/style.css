@@ -1,0 +1,26 @@
+/* zerando os parâmetros globais da página */
+* {
+ padding: 0;
+ margin: 0;
+}
+
+/* Centralizando botão na tela, alterando tamanho dele, removendo as bordas e colocando cor de fundo*/
+.btn {
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    border: 0px;
+    background-color: #e2e2e2;
+    height: 45px;
+    width: 160px;
+}
+
+/* Funcionalidade de passar o mouse por cima o botão fica em destaque*/
+.btn:hover {
+    background-color: #bebebe;
+}
+
+/* Funcionalidade para mobile, quando o usuário tocar nele vai criar o destaque semelhante ao :hover*/
+button:focus{
+    background-color: #838383;
+}
